@@ -2,7 +2,15 @@
 Library Management System using
 Spring Boot
 
-There is Videos Attached with Project to show demo and using
+Important Notes: 
+
+-There is Videos Attached with Project to show demo and using.
+
+- Before starting the application on your local machine you need to create a new database with the name 'sparklmsdb' in your local MySql.
+
+- For application login, use the following credentials:
+username: admin
+password: admin
 
 Project Description:
 Build a Library Management System API using Spring Boot. The system should allow librarians
